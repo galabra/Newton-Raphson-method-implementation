@@ -1,2 +1,2 @@
 # Newton-Raphson-method-implementation
-An implementation of the Newton-Raphson method in Assembly
+An implementation of the Newton-Raphson method, written purely in Assembly
